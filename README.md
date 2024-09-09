@@ -1,5 +1,5 @@
 # Gimp
-#### GIMP (sigla para GNU Image Manipulation Program ou Programa de Manipulação de Imagens GNU) é uma ferramenta de multi-plataforma que é usada para a manipulação e modificação de imagens. Suas funções incluem composição e construção de imagens e retocar fotos.
+### GIMP (sigla para GNU Image Manipulation Program ou Programa de Manipulação de Imagens GNU) é uma ferramenta de multi-plataforma que é usada para a manipulação e modificação de imagens. Suas funções incluem composição e construção de imagens e retocar fotos.
 
 **Atividades GIMP:**
 
